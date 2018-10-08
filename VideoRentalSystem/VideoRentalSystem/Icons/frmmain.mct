@@ -1,0 +1,60 @@
+&Set-up\***\mnufile|&Set-up
+	-\***\hf|-
+	Student Data Entry|@Open Student Form|#stud\***\fsgs|Student Data Entry|@Open Student Form|#stud
+	Book Data Entry\***\mnubookinfo|Book Data Entry
+	Change Password\***\mnuchange|Change Password
+	Faculty Data Entry      \***\mnusfo|Faculty Data Entry      
+	Outsiders Data Entry\***\mnuouts|Outsiders Data Entry
+	-\***\tgrgt|-
+	Browse\***\mhd|Browse
+		-\***\gffdgfdg|-
+		Book Data\***\dsfdg|Book Data
+		Student Data\***\mnugfhfg|Student Data
+		-\***\ghghg|-
+		Faculty and Outsider\***\dfdsfds|Faculty and Outsider
+			Faculty\***\lkpiuo|Faculty
+			Outsiders\***\dfghgpi|Outsiders
+		-\***\hjhds|-
+		Borrowed Books\***\optty|Borrowed Books
+		Returned Books\***\jktgft|Returned Books
+		-\***\jkgfdr|-
+	-\***\pkjjk|-
+	Exit\***\mnuexit|Exit
+	-\***\ffdd|-
+&Transaction\***\cgfgfg|&Transaction
+	-\***\tyuyu|-
+	Borrowing and Returning of Books\***\mjr|Borrowing and Returning of Books
+	-\***\wertr|-
+	Search\***\fgfhgj|Search
+		Student\***\mnustud|Student
+		Faculty\***\mnufacs|Faculty
+		Books\***\mnuboooks|Books
+	-\***\dfdgf|-
+&Reports\***\mnuedit|&Reports
+	-\***\sdfds|-
+	Inventory of Borrowed Books\***\asdfds|Inventory of Borrowed Books
+	Inventory of Returned Books\***\ws|Inventory of Returned Books
+	-\***\fdgf|-
+	Summary of Student Borrowers\***\tyry|Summary of Student Borrowers
+	Summary of Staff Borrowers\***\ghuty|Summary of Staff Borrowers
+	Summary of Faculty Borrowers\***\ghjh|Summary of Faculty Borrowers
+	Summary of Outsider Borrowers\***\mfgjgh|Summary of Outsider Borrowers
+	-\***\jkldff|-
+	Inventory of All Books\***\fgfdf|Inventory of All Books
+	Inventory of New Books\***\sdssds|Inventory of New Books
+	-\***\jjjgf|-
+	Total Collection for Overdue Books\***\mnubooks|Total Collection for Overdue Books
+	Summary of Overdue Books\***\asa|Summary of Overdue Books
+	-\***\wwdew|-
+Tools\***\mnutools|Tools
+	-\***\lklklfd|-
+	Compact Database\***\mnucompact|Compact Database
+	Backup\***\mnubackup|Backup
+	-\***\hgfd|-
+Help\***\sdsd|Help
+	-\***\ffffgr|-
+	About the System\***\gf|About the System
+	-\***\sssfhr|-
+	About the Developer\***\vb|About the Developer
+	-\***\ffgrdsloiu|-
+
