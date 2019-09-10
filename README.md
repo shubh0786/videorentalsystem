@@ -1,1 +1,1 @@
-# videorentalsystem is college project where i used C# and Sql database
+# videorentalsystem is my college project where i used C# and Sql database
